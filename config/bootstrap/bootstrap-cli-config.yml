@@ -71,20 +71,6 @@ bootstrap:
                 idp-source-id: e56644fe-b6ba-4aa4-bff9-6ab4e6ed4ec4
                 idp-source-name: bootcamp-31-test-uc-001-oee-owner
               - cdf-group: cdf:uc:001:oee:read
-              - cdf-group: uc:001:oee:owner
-                idp-source-id: e56644fe-b6ba-4aa4-bff9-6ab4e6ed4ec4
-                idp-source-name: bootcamp-31-test-uc-001-oee-owner
-              - cdf-group: uc:001:oee:read
-              - cdf-group: cdf:oee:owner
-                idp-source-id: e56644fe-b6ba-4aa4-bff9-6ab4e6ed4ec4
-                idp-source-name: bootcamp-31-test-uc-001-oee-owner
-              - cdf-group: cdf:oee:owner
-                idp-source-id: e56644fe-b6ba-4aa4-bff9-6ab4e6ed4ec4
-                idp-source-name: bootcamp-31-test-uc-001-oee-read
-              - cdf-group: uc:001:oee:owner
-                idp-source-id: e56644fe-b6ba-4aa4-bff9-6ab4e6ed4ec4
-                idp-source-name: bootcamp-31-test-uc-001-oee-owner
-              - cdf-group: uc:001:oee:owner
                 idp-source-id: e56644fe-b6ba-4aa4-bff9-6ab4e6ed4ec4
                 idp-source-name: bootcamp-31-test-uc-001-oee-read
         - cdf-project: cdf-bootcamp-31-prod # i.e. bootcamp-01-test
@@ -102,20 +88,6 @@ bootstrap:
                 idp-source-id: 0abf9e51-67da-4265-9f7f-b9a56c37e4a2
                 idp-source-name: bootcamp-31-prod-uc-001-oee-owner
               - cdf-group: cdf:uc:001:oee:read
-              - cdf-group: uc:001:oee:owner
-                idp-source-id: 0abf9e51-67da-4265-9f7f-b9a56c37e4a2
-                idp-source-name: bootcamp-31-prod-uc-001-oee-owner
-              - cdf-group: uc:001:oee:read
-              - cdf-group: cdf:oee:owner
-                idp-source-id: 0abf9e51-67da-4265-9f7f-b9a56c37e4a2
-                idp-source-name: bootcamp-31-prod-uc-001-oee-owner
-              - cdf-group: cdf:oee:owner
-                idp-source-id: 0f5873a0-9fd8-4e87-b42d-94dfe8412f59
-                idp-source-name: bootcamp-31-prod-uc-001-oee-read
-              - cdf-group: uc:001:oee:owner
-                idp-source-id: 0abf9e51-67da-4265-9f7f-b9a56c37e4a2
-                idp-source-name: bootcamp-31-prod-uc-001-oee-owner
-              - cdf-group: uc:001:oee:owner
                 idp-source-id: 0f5873a0-9fd8-4e87-b42d-94dfe8412f59
                 idp-source-name: bootcamp-31-prod-uc-001-oee-read
 
