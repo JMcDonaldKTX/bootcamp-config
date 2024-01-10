@@ -10,10 +10,9 @@ ignoreNullFields: true
 shared: true
 action: upsert
 schedule:
-    interval: 0 * * * *
+    interval: 2 * * * *
     isPaused: false
 dataSetExternalId: src:001:sap:ds
-# Specify credentials separately like this:
 authentication:
     clientId: ${COGNITE_CLIENT_ID}
     clientSecret: ${COGNITE_CLIENT_SECRET}
