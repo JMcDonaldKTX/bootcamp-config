@@ -1,6 +1,5 @@
 ---
 name: Deploy transformations
-# comment go brrr
 on:
     push:
         branches: [main]
